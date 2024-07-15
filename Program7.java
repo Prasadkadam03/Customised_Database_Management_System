@@ -124,7 +124,7 @@ class DBMS
     }
 }
 
-class Program424
+class Program7
 {
     public static void main(String Arg[])
     {

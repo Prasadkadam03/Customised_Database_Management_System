@@ -223,7 +223,7 @@ class DBMS
 
 }
 
-class Program429
+class Program12
 {
     public static void main(String Arg[])
     {
